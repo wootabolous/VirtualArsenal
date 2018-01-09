@@ -4,26 +4,7 @@ _crate = _this select 0;
 
 //Lists of items to include
 _availableHeadgear = [
-	"H_HelmetB",
-	"H_HelmetB_camo",
-	"H_HelmetB_paint",
-	"H_HelmetB_light",
-	"H_HelmetSpecB",
-	"H_Booniehat_mcamo",
-	"H_Booniehat_khk_hs",
-	"H_MilCap_mcamo",
-	"H_Cap_tan_specops_US",
-	"H_Cap_khaki_specops_UK",
-	"H_Cap_headphones",
-	"H_Bandanna_mcamo",
-	"H_Bandanna_khk_hs",
-	"H_Shemag_khk",
-	"H_ShemagOpen_khk",
-	"H_Watchcap_blk",
-	"H_PilotHelmetHeli_B",
-	"H_CrewHelmetHeli_B",
-	"H_PilotHelmetFighter_B",
-	"H_HelmetCrew_B"
+	"rhssaf_helmet_m97_oakleaf"
 ];
 
 _availableGoggles = [
