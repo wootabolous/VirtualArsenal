@@ -72,6 +72,14 @@ _availableBackpacks = [
 ];
 
 _availableWeapons = [
+	"rhs_Weapon_fim92",
+	"rhs_Weapon_launch_RPG7_F",
+	"rhs_Weapon_rpg7",
+	"rhs_Weapon_fgm148",
+	"rhs_Weapon_M136",
+	"rhs_Weapon_M136_hedp",
+	"rhs_Weapon_M136_hp"
+];
 
 //Populate with predefined items and whatever is already in the crate
 [_crate,((backpackCargo _crate) + _availableBackpacks)] call BIS_fnc_addVirtualBackpackCargo;
