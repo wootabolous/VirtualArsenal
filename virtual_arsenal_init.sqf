@@ -38,6 +38,7 @@ _availableGoggles = [
 	"G_Squares_Tinted",
 	"G_Tactical_Black",
 	"G_Tactical_Clear",
+	"G_Balaclava_TI_tna_F",
 	"G_Bandanna_blk"
 ];
 
