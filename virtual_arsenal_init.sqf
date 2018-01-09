@@ -8,19 +8,12 @@ _availableHeadgear = [
 ];
 
 _availableGoggles = [
-	"G_Combat",
-	"G_Lowprofile",
-	"G_Shades_Black",
-	"G_Shades_Blue",
-	"G_Shades_Green",
-	"G_Shades_Red",
-	"G_Sport_Blackred",
-	"G_Sport_Blackyellow",
-	"G_Squares_Tinted",
-	"G_Tactical_Black",
-	"G_Tactical_Clear",
 	"G_Balaclava_TI_tna_F",
-	"G_Bandanna_blk"
+	"G_Bandanna_blk",
+	"rhs_googles_black",
+	"rhs_googles_yellow",
+	"rhs_googles_clear",
+	"rhs_googles_orange",
 ];
 
 _availableUniforms = [
