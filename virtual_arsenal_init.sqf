@@ -43,13 +43,8 @@ _availableGoggles = [
 ];
 
 _availableUniforms = [
-	"U_B_CombatUniform_mcam",
-	"U_B_CombatUniform_mcam_tshirt",
-	"U_B_CombatUniform_mcam_vest",
-	"U_B_HeliPilotCoveralls",
-	"U_B_CTRG_1",
-	"U_B_CTRG_2",
-	"U_B_CTRG_3"
+	"rhsgref_uniform_ERDL",
+	
 ];
 
 _availableVests = [
