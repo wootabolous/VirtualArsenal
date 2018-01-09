@@ -29,6 +29,16 @@ _availableBackpacks = [
 	"rhssaf_alice_md2camo"
 ];
 
+_availableItems = [
+        "Toolkit",
+        "ItemGPS",
+        "ItemMap"
+];
+
+_availableMagazines = [
+        "10Rnd_338_Mag"
+];
+
 _availableWeapons = [
 	"rhs_Weapon_fim92",
 	"rhs_Weapon_launch_RPG7_F",
