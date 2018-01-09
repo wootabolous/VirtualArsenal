@@ -57,7 +57,7 @@ _availableWeapons = [
 	"rhsusf_weapon_glock17g4",
 	"rhsusf_weapon_m9",
 	"rhsusf_weapon_m1911a1",
-	"rhs_weapon_m320",
+	"rhs_weapon_m320"
 ];
 
 //Populate with predefined items and whatever is already in the crate
