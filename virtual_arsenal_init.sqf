@@ -13,11 +13,11 @@ _availableGoggles = [
 	"rhs_googles_black",
 	"rhs_googles_yellow",
 	"rhs_googles_clear",
-	"rhs_googles_orange",
+	"rhs_googles_orange"
 ];
 
 _availableUniforms = [
-	"rhsgref_uniform_ERDL",
+	"rhsgref_uniform_ERDL"
 	
 ];
 
