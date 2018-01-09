@@ -29,14 +29,7 @@ _availableUniforms = [
 ];
 
 _availableVests = [
-	"V_BandollierB_khk",
-	"V_BandollierB_blk",
-	"V_PlateCarrier1_rgr",
-	"V_PlateCarrier2_rgr",
-	"V_PlateCarrierGL_rgr",
-	"V_PlateCarrierSpec_rgr",
-	"V_PlateCarrierL_CTRG",
-	"V_PlateCarrierH_CTRG"
+	"V_TacVest_oli"
 ];
 
 _availableBackpacks = [
