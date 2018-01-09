@@ -55,7 +55,23 @@ _availableWeapons = [
 	"rhs_Weapon_fgm148",
 	"rhs_Weapon_M136",
 	"rhs_Weapon_M136_hedp",
-	"rhs_Weapon_M136_hp"
+	"rhs_Weapon_M136_hp",
+	"Weapon_srifle_DMR_07_blk_F",
+	"Weapon_srifle_GM6_camo_F",
+	"Weapon_srifle_LRR_F",
+	"Weapon_srifle_LRR_tna_F",
+	"Weapon_srifle_EBR_F",
+	"Weapon_srifle_DMR_06_camo_F",
+	"Weapon_srifle_DMR_01_F",
+	"rhs_weapon_asval",
+	"rhs_weapon_m14ebrri",
+	"rhs_weapon_XM2010",
+	"rhs_weapon_m24sws_ghillie",
+	"rhs_weapon_m24sws_blk",
+	"rhs_weapon_m40a5_wd",
+	"rhs_weapon_svd",
+	"rhs_weapon_svdp_wd",
+	"rhssaf_weapon_m76"
 ];
 
 //Populate with predefined items and whatever is already in the crate
